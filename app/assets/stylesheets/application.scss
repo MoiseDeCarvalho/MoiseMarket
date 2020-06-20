@@ -21,6 +21,10 @@ body {
     flex-direction: column;
   }
 
+  h1 {
+    font-size: 3em;
+  }
+
   main {
     flex: 1 0 auto;
   }
@@ -35,7 +39,11 @@ body {
 
 .show-titolo {
   margin-top: 0px;
-  font-size: 3.4 em;
+  font-size: 3.4em;
+}
+
+.btn-form {
+  width: 100%;
 }
 
 
